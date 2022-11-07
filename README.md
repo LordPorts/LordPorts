@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LordPorts
 - 👀 I’m interested in all things DevSecOps and AppSec
 - 🌱 I’m currently learning about github
-- 💞️ I’m looking to collaborate on something in the near future
+- 💞️ I’m looking to collaborate on something in the near future just not sure what just yet
 - 📫 I can be reached by email - lordports68@gmail.com
 
 <!---
